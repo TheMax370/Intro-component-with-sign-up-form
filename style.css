@@ -129,6 +129,11 @@ a {
     main {
         flex-direction: column;
     }
+    
+     .container {
+        max-width: 327px;
+        height: 226px;
+    }
 
     h1 {
         font-size: 28px;
